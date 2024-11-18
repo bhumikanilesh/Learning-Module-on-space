@@ -47,8 +47,7 @@ This project goes beyond being just an interactive tool; it’s a gateway to und
    final_brs.py  
 
 6. There are pdfs and videos showing the project was done and insights on how the project looks after running it.
-7. NOTE: Due to the large size of the file, all the jpg, obj werent upoading. But I have attached the code and pdf and mp4 videos for reference. Thank you for understanding
-
+   
 
 ## Future Enhancements  
 1. **3D Solar System Simulation**  
@@ -62,6 +61,9 @@ This project goes beyond being just an interactive tool; it’s a gateway to und
 
 4. **Black Hole Growth Game**  
    - Provide deeper insights into black hole formation, including scientific theories, equations, and detailed visualizations of their deve
+
+## NOTE: Due to the large size of the file, all the jpg, obj werent upoading. But I have attached the code and pdf and mp4 videos for reference. Thank you for understanding
+
 
 
 
