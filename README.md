@@ -47,7 +47,7 @@ This project goes beyond being just an interactive tool; it’s a gateway to und
    final_brs.py  
 
 6. There are pdfs and videos showing the project was done and insights on how the project looks after running it.
-   ```  
+
 
 ## Future Enhancements  
 1. **3D Solar System Simulation**  
