@@ -6,6 +6,9 @@ This project is an interactive Python-based application designed to delve into t
 
 The project utilizes powerful Python libraries and engines, such as **Pygame**, **Tkinter**, **Ursina**, and **Subprocesses**, to deliver a unique learning experience.  
 
+## Why This Project Matters  
+This project goes beyond being just an interactive tool; it’s a gateway to understanding the vastness of space. Through games, simulations, and quizzes, users can deepen their knowledge of the cosmos in an engaging and informative manner.  
+
 ## Features  
 
 ### 1. **Introductory Video**  
@@ -36,14 +39,14 @@ The project utilizes powerful Python libraries and engines, such as **Pygame**, 
 
 ## How to Run the Project  
 1. Clone or download the repository to your local system.  
-2. Ensure Python is installed (preferably Python 3.8+).  
-3. Install the required libraries:  
+2. Ensure Python is installed (preferably Python 3.8+).
+3. Download the file attached
+4. It will contain another readme file, mentioning all the python libraries to install
+5. Run the main Python file:  
    ```bash  
-   pip install pygame ursina  
-   ```  
-4. Run the main Python file:  
-   ```bash  
-   python main.py  
+   final_brs.py  
+
+6. There are pdfs and videos showing the project was done and insights on how the project looks after running it.
    ```  
 
 ## Future Enhancements  
@@ -54,9 +57,10 @@ The project utilizes powerful Python libraries and engines, such as **Pygame**, 
    - Introduce additional modules focusing on various space-related topics to enhance study opportunities.  
 
 3. **Zodiac Sign Teller**  
-   - Add historical information about astrology and constellation, also how it connects with space.  
+   - Add historical information about astrology and constellation, also how it connects with.  
 
 4. **Black Hole Growth Game**  
-   - Provide deeper insights into black hole formation, including scientific theories, equations, and detailed visualizations of their development.  
+   - Provide deeper insights into black hole formation, including scientific theories, equations, and detailed visualizations of their deve
+
 
 
